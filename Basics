@@ -1,0 +1,7 @@
+//Initials in print
+print("N    N  M      M")
+print("NN   N  MM    MM")
+print("N N  N  M M  M M")
+print("N  N N  M  MM  M")
+print("N   NN  M      M")
+print("N    N  M      M")
